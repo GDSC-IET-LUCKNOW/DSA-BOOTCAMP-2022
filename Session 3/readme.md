@@ -4,4 +4,4 @@ Session 3: Looping and Iterations in C++
           
           -Iteration Flow
           
-          -Type Converstion and Type Casting in C++
+          -Type Conversions and Type Casting in C++
