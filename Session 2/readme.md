@@ -5,4 +5,4 @@ Session 2: Brief Overview of C++
 
 [Code Structure](https://www.geeksforgeeks.org/structure-of-c-program/)
 
-[Operator](https://www.geeksforgeeks.org/operators-c-c/)
+[Operators](https://www.geeksforgeeks.org/operators-c-c/)
